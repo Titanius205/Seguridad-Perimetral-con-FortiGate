@@ -1,0 +1,20 @@
+# Proyecto 1: Seguridad Perimetral con FortiGate
+**Estudiante:** Rahwder Ant. Zorrilla Reyes  
+**Matrícula:** 2024-2374  
+**Materia:** Seguridad de Redes  
+**Docente:** Jonathan Rondon
+
+## 🎯 Objetivo
+Implementar una topología de red segura utilizando un firewall FortiGate, asegurando la segmentación de red para usuarios y servidores, y aplicando políticas de seguridad UTM (Filtro Web, IPS, WAF y Control de Aplicaciones).
+
+## 🛠️ Especificaciones Técnicas
+- **Red LAN Usuarios:** 10.23.74.0/25 (Matrícula 2024-2374)
+- **Red LAN Servidores:** 10.23.74.128/28
+- **Seguridad:** Bloqueo de ITLA (Wildcard), Redes Sociales, WhatsApp (Voz/Video) y mitigación de escaneos.
+
+## 📺 Demostración en Video
+[Haz clic aquí para ver la defensa del proyecto](https://youtu.be/HgWB2rzH-51)
+
+## 📄 Archivos incluidos
+1. `config_fortigate.txt`: Script completo de configuración (CLI).
+2. `Informe_P1_Zorrilla_2024-2374.pdf`: Documentación técnica detallada.
